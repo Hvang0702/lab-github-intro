@@ -1,4 +1,4 @@
 # lab-github-intro
-lag-github-introduction
+lab-github-introduction
 
 CSCI 150
